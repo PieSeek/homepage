@@ -49,9 +49,8 @@ p {
 }
 ul {
     list-style-type: none;
-    margin-left: auto;
-    margin-right: auto;
     padding: 0;
+    margin: 0;
     overflow: hidden;
     background-color: #303030;
     text-align: center;
